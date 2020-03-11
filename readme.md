@@ -131,22 +131,22 @@ Of course, we will monitor this situation and will amend and adjust this policy 
 # Frequently Asked Questions
 Please consider this a living document. We are sharing the questions to start the conversation and we will continue to evolve in response to the situation. Please do not read these as policies or permanent. We will be making updates daily as the situation continues to unfold. 
 
-- Section 1 - (General)[#faq-general]
-- Section 2 - (Client Work)[#faq-client-work]
-- Section 3 - (Candidates)[#faq-candidates]
-- Section 4 - (New Hires)[#faq-new-hires]
-- Section 5 - (Conferences)[#faq-conferences]
-- Section 6 - (Team Offsites)[#faq-team-offsites]
-- Section 7 - (Office Attendance)[#faq-office-attendance]
-- Section 8 - (Team Meetings)[#faq-team-meetings]
-- Section 9 - (Personal Travel)[#faq-personal-travel]
-- Section 10 - (Personal Health)[#faq-personal-health]
-- Section 11 - (Technology/Equipment)[#faq-technology-equipment]
-- Section 12 - (NYC Office)[#faq-nyc-office]
-- Section 13 - (Possible School Closures)[#faq-possible-school-closures]
-- Section 14 - (Virtual Workshops)[#faq-virtual-workshops]
-- Section 15 - (Travel)[#faq-travel]
-- Section 16 - (Media inquiries)[#faq-media-inquiries]
+- Section 1 - [General](#faq-general)
+- Section 2 - [Client Work](#faq-client-work)
+- Section 3 - [Candidates](#faq-candidates)
+- Section 4 - [New Hires](#faq-new-hires)
+- Section 5 - [Conferences](#faq-conferences)
+- Section 6 - [Team Offsites](#faq-team-offsites)
+- Section 7 - [Office Attendance](#faq-office-attendance)
+- Section 8 - [Team Meetings](#faq-team-meetings)
+- Section 9 - [Personal Travel](#faq-personal-travel)
+- Section 10 - [Personal Health](#faq-personal-health)
+- Section 11 - [Technology/Equipment](#faq-technology-equipment)
+- Section 12 - [NYC Office](#faq-nyc-office)
+- Section 13 - [Possible School Closures](#faq-possible-school-closures)
+- Section 14 - [Virtual Workshops](#faq-virtual-workshops)
+- Section 15 - [Travel](#faq-travel)
+- Section 16 - [Media inquiries](#faq-media-inquiries)
 
 ## FAQ General 
 
