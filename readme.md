@@ -335,7 +335,7 @@ It is totally opt-in. We are holding daily updates to help ensure that everybody
 ### d. Given that people are starting to cancel trips and vacation plans will there be any consideration from Klick for expanding our vacation carry-over policy to account for this?
 - We still encourage people to use their vacation as earned so that they have opportunities to recharge and benefit from some R&R. 
 
-## 10. Personal Health
+## FAQ Personal Health
 ### a. Do I need to be scared right now? 
 - We understand this is a rapidly evolving situation. We have everyone's best interest in mind and so it is with an abundance of caution that we are taking these precautions. If you are feeling anxious, talk to us or call our Employee Assistance Programs (EAP). 
 
