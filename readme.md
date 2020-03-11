@@ -120,7 +120,7 @@ Of course, we will monitor this situation and will amend and adjust this policy 
 - Expert advice regarding reopening our offices
 
 ## *Level 8 (Shift to Remote Work/Work from Home for a Significant Portion of Klicksters)*
--CURRENT STATUS (Effective March 8, 2020)*
+- *CURRENT STATUS (Effective March 8, 2020)*
 - We will be working with experts on ensuring we are as prepared as possible. 
 - The range of decisions surrounding the technology enabling our teams to remotely work, on-premises dependencies, departments with assets requiring on-site servers, telephony, office VPN capabilities, and many typically interactive experiences such as onboarding; would be materially impacted.
 - All of our business continuity plans are currently being adapted in response to COVID-19 and we’re carefully evaluating our protocols, as well as reassessing plans daily.
