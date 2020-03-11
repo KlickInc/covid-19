@@ -32,12 +32,12 @@ Of course, we will monitor this situation and will amend and adjust this policy 
 ## Level 1 (Standard Operations)
 -	Vigilant monitoring of any risk to the safety of our team.
 -	Consistent use of healthy hygiene habits and practices to prevent the spread of flu and other respiratory illnesses  https://www.cdc.gov/flu/prevent/actions-prevent-flu.htm
-  -	*Avoid close contact.* Keep your distance from people who are sick. When you are sick, keep your distance from others to protect them from getting sick too.
-  -	*Stay home when you are sick.* Stay home from work, school, and errands when you are sick. This will help prevent spreading your illness to others.
-  -	*Cover your mouth and nose.* Cover your mouth and nose with a tissue when coughing or sneezing. It may prevent those around you from getting sick. Flu and other serious respiratory illnesses, like respiratory syncytial virus (RSV), whooping cough, and severe acute respiratory syndrome (SARS), are spread by cough, sneezing, or unclean hands.
-  -	*Clean your hands.* Washing your hands often will help protect you from germs. If soap and water are not available, use an alcohol-based hand rub.
-  -	*Avoid touching your eyes, nose or mouth.* Germs are often spread when a person touches something that is contaminated with germs and then touches his or her eyes, nose, or mouth.
-  -	*Practice other good health and wellness habits.* Clean and disinfect frequently touched surfaces at home, work, or school, especially when someone is ill. Get plenty of sleep, be physically active, manage your stress, drink plenty of fluids, and eat nutritious food.
+    -	*Avoid close contact.* Keep your distance from people who are sick. When you are sick, keep your distance from others to protect them from getting sick too.
+    -	*Stay home when you are sick.* Stay home from work, school, and errands when you are sick. This will help prevent spreading your illness to others.
+    -	*Cover your mouth and nose.* Cover your mouth and nose with a tissue when coughing or sneezing. It may prevent those around you from getting sick. Flu and other serious respiratory illnesses, like respiratory syncytial virus (RSV), whooping cough, and severe acute respiratory syndrome (SARS), are spread by cough, sneezing, or unclean hands.
+    -	*Clean your hands.* Washing your hands often will help protect you from germs. If soap and water are not available, use an alcohol-based hand rub.
+    -	*Avoid touching your eyes, nose or mouth.* Germs are often spread when a person touches something that is contaminated with germs and then touches his or her eyes, nose, or mouth.
+    -	*Practice other good health and wellness habits.* Clean and disinfect frequently touched surfaces at home, work, or school, especially when someone is ill. Get plenty of sleep, be physically active, manage your stress, drink plenty of fluids, and eat nutritious food.
 
 ## Level 2 (Restricted Travel)
 -	On February 3, 2020, Klick introduced travel restrictions to CDC hot spots and rolled out our first set of measures in response to COVID-19. 
