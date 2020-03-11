@@ -32,66 +32,66 @@ Of course, we will monitor this situation and will amend and adjust this policy 
 ## Level 1 (Standard Operations)
 *	Vigilant monitoring of any risk to the safety of our team.
 *	Consistent use of healthy hygiene habits and practices to prevent the spread of flu and other respiratory illnesses  https://www.cdc.gov/flu/prevent/actions-prevent-flu.htm
- *	*Avoid close contact.* Keep your distance from people who are sick. When you are sick, keep your distance from others to protect them from getting sick too.
- *	*Stay home when you are sick.* Stay home from work, school, and errands when you are sick. This will help prevent spreading your illness to others.
- *	*Cover your mouth and nose.* Cover your mouth and nose with a tissue when coughing or sneezing. It may prevent those around you from getting sick. Flu and other serious respiratory illnesses, like respiratory syncytial virus (RSV), whooping cough, and severe acute respiratory syndrome (SARS), are spread by cough, sneezing, or unclean hands.
- *	*Clean your hands.* Washing your hands often will help protect you from germs. If soap and water are not available, use an alcohol-based hand rub.
- *	*Avoid touching your eyes, nose or mouth.* Germs are often spread when a person touches something that is contaminated with germs and then touches his or her eyes, nose, or mouth.
- *	*Practice other good health and wellness habits.* Clean and disinfect frequently touched surfaces at home, work, or school, especially when someone is ill. Get plenty of sleep, be physically active, manage your stress, drink plenty of fluids, and eat nutritious food.
+  *	*Avoid close contact.* Keep your distance from people who are sick. When you are sick, keep your distance from others to protect them from getting sick too.
+  *	*Stay home when you are sick.* Stay home from work, school, and errands when you are sick. This will help prevent spreading your illness to others.
+  *	*Cover your mouth and nose.* Cover your mouth and nose with a tissue when coughing or sneezing. It may prevent those around you from getting sick. Flu and other serious respiratory illnesses, like respiratory syncytial virus (RSV), whooping cough, and severe acute respiratory syndrome (SARS), are spread by cough, sneezing, or unclean hands.
+  *	*Clean your hands.* Washing your hands often will help protect you from germs. If soap and water are not available, use an alcohol-based hand rub.
+  *	*Avoid touching your eyes, nose or mouth.* Germs are often spread when a person touches something that is contaminated with germs and then touches his or her eyes, nose, or mouth.
+  *	*Practice other good health and wellness habits.* Clean and disinfect frequently touched surfaces at home, work, or school, especially when someone is ill. Get plenty of sleep, be physically active, manage your stress, drink plenty of fluids, and eat nutritious food.
 
 ## Level 2 (Restricted Travel)
 *	On February 3, 2020, Klick introduced travel restrictions to CDC hot spots and rolled out our first set of measures in response to COVID-19. 
 
 ## Level 3 (Escalated Precautions)
 *	Travel:
- *	February 22, 2020: we revised our policies 
- *	February 29, 2020: we escalated our precautions and changed policies, eliminating all non-essential travel 
+  *	February 22, 2020: we revised our policies 
+  *	February 29, 2020: we escalated our precautions and changed policies, eliminating all non-essential travel 
 *	Efforts to maintain sanitary and safe workspaces for Klicksters continue, including increased cleaning of office surfaces and the provision of hand sanitizers and wipes in various locations around the office.
  
 ## Level 4 (Validating Continuity Planning)
 *	Travel Policy Revisions:
- *	March 1, 2020: Eliminated all travel outside North America, beyond CDC hot spots
- *	March 3, 2020: 
- **	Eliminated conference travel and participation
- **	Eliminated offsite-related travel
- **	Eliminated inter-office travel (Canada & USA)
- **	Request that any critical travel be explicitly approved in advance, even within the US. Klick will not provide a definition of essential travel, as effective immediately we are operating with the guidance that all travel is not essential; therefore all travel requires prior authorization from CEO and must be client-initiated.
- *	March 4, 2020:  
- **	Our leadership has canceled their March/Spring break trips to personally prioritize the safety of our families and our broader Klick family. While we can’t demand that all Klicksters do so as well, we request that you consider the increased risk as this situation unfolds. 
- **	We are immediately implementing the CDC recommended self-quarantine practices for anybody that is completing travel outside of North America. 
- **	In addition, we request that any travel outside of work, internationally, or within North America, is disclosed to our travel team for safety and tracing purposes. 
+  *	March 1, 2020: Eliminated all travel outside North America, beyond CDC hot spots
+  *	March 3, 2020: 
+  **	Eliminated conference travel and participation
+  **	Eliminated offsite-related travel
+  **	Eliminated inter-office travel (Canada & USA)
+  **	Request that any critical travel be explicitly approved in advance, even within the US. Klick will not provide a definition of essential travel, as effective immediately we are operating with the guidance that all travel is not essential; therefore all travel requires prior authorization from CEO and must be client-initiated.
+  *	March 4, 2020:  
+  **	Our leadership has canceled their March/Spring break trips to personally prioritize the safety of our families and our broader Klick family. While we can’t demand that all Klicksters do so as well, we request that you consider the increased risk as this situation unfolds. 
+  **	We are immediately implementing the CDC recommended self-quarantine practices for anybody that is completing travel outside of North America. 
+  **	In addition, we request that any travel outside of work, internationally, or within North America, is disclosed to our travel team for safety and tracing purposes. 
 
 *	Facilities:
- *	We will be removing Listerine from washrooms and we encourage everyone to avoid brushing their teeth at work.
- *	As an extra precaution, we will remove any open candy or chips from the office; and we encourage everyone to sanitize their hands before meals. For example, wash hands after getting a chocolate bar from the vending machine as well as before opening your wrapped candy.
- *	We have also put all reusable cutlery and plates in storage and have replaced these with single use items while we are at this level of preparedness.
- *	We are working with our labs team to identify potential digital tools for improving containment further. For example, we’re exploring apps that warn you before you touch your face, as well as thermal imaging requiring no touch, so people can personally choose to verify they don’t have elevated temperatures, without having to handle a thermometer. 
- *	We are in the process of removing all boardroom or meeting room clickers and keyboards. We also encourage you to use the back of a pen on zoom screens or other surfaces and a key or gloves when touching elevator buttons, opening doors, and so on. 
+  *	We will be removing Listerine from washrooms and we encourage everyone to avoid brushing their teeth at work.
+  *	As an extra precaution, we will remove any open candy or chips from the office; and we encourage everyone to sanitize their hands before meals. For example, wash hands after getting a chocolate bar from the vending machine as well as before opening your wrapped candy.
+  *	We have also put all reusable cutlery and plates in storage and have replaced these with single use items while we are at this level of preparedness.
+  *	We are working with our labs team to identify potential digital tools for improving containment further. For example, we’re exploring apps that warn you before you touch your face, as well as thermal imaging requiring no touch, so people can personally choose to verify they don’t have elevated temperatures, without having to handle a thermometer. 
+  *	We are in the process of removing all boardroom or meeting room clickers and keyboards. We also encourage you to use the back of a pen on zoom screens or other surfaces and a key or gloves when touching elevator buttons, opening doors, and so on. 
 
 *	Policy Decisions:
- *	We request that you take your laptop home nightly. We are immediately starting to transition closer towards remote-work in order to prioritize the safety of our team and prepare for the possibility of school or public transportation interruptions.
- *	No handshakes. No hugs. We would add that it’s sensible to avoid shaking hands entirely to reduce the risk of spreading infection. Though that might be awkward at times, please recognize that these are unique times and require these precautions.
- *	_*IF YOU ARE NOT FEELING WELL, YOU MUST WORK FROM HOME (if you are able) AND YOUR OBLIGATION IS NOT TO ATTEND OUR OFFICES. WE MUST PRIORITIZE ASKING FOR EVERYONE TO BE RESPECTFUL OF THIS POLICY FOR THE SAFETY OF ALL KLICKSTERS.*_
- *	We are canceling these events:
- **	Dr. Seuss Experience family event in Toronto
- *	Effective immediately, we are also pausing:
- **	Klick Tavern
- **	Yoga and Wellness classes are postponed. The gym will remain open to ensure shower access, as we encourage people to bike into work and use the showers, but we highly discourage hygiene activities like tooth brushing or shaving in these shared facilities. Likewise, we discourage the use of gym equipment. 
- **	Mojo Meetings
- **	Pizza Wednesday (and any food-related activities)
- *	For March, we’re moving the following meetings to virtual sessions and we’ll be reassessing for April: 
- **	Science Sessions 
- **	Breakfast Meetings 
+  *	We request that you take your laptop home nightly. We are immediately starting to transition closer towards remote-work in order to prioritize the safety of our team and prepare for the possibility of school or public transportation interruptions.
+  *	No handshakes. No hugs. We would add that it’s sensible to avoid shaking hands entirely to reduce the risk of spreading infection. Though that might be awkward at times, please recognize that these are unique times and require these precautions.
+  *	_*IF YOU ARE NOT FEELING WELL, YOU MUST WORK FROM HOME (if you are able) AND YOUR OBLIGATION IS NOT TO ATTEND OUR OFFICES. WE MUST PRIORITIZE ASKING FOR EVERYONE TO BE RESPECTFUL OF THIS POLICY FOR THE SAFETY OF ALL KLICKSTERS.*_
+  *	We are canceling these events:
+  **	Dr. Seuss Experience family event in Toronto
+  *	Effective immediately, we are also pausing:
+  **	Klick Tavern
+  **	Yoga and Wellness classes are postponed. The gym will remain open to ensure shower access, as we encourage people to bike into work and use the showers, but we highly discourage hygiene activities like tooth brushing or shaving in these shared facilities. Likewise, we discourage the use of gym equipment. 
+  **	Mojo Meetings
+  **	Pizza Wednesday (and any food-related activities)
+  *	For March, we’re moving the following meetings to virtual sessions and we’ll be reassessing for April: 
+  **	Science Sessions 
+  **	Breakfast Meetings 
 
 *	Guidance to our team:
- *	We highly encourage our team to avoid large public gatherings, including concerts and sporting events.
- *	We highly recommend that family vacations involving travel, hotels, parks, or other large gatherings also be deferred.
- *	We are defining large gatherings as 25 or more people, but we trust our leaders' judgement. While we are unable to control our client’s guidance to their teams, we can prevent Klicksters from creating these situations ourselves.
+  *	We highly encourage our team to avoid large public gatherings, including concerts and sporting events.
+  *	We highly recommend that family vacations involving travel, hotels, parks, or other large gatherings also be deferred.
+  *	We are defining large gatherings as 25 or more people, but we trust our leaders' judgement. While we are unable to control our client’s guidance to their teams, we can prevent Klicksters from creating these situations ourselves.
 
 *	New Procedures:
- *	Attached below, please find the FAQ that will be a living document, designed to help clarify and answer your questions as the situation continues to unfold.
- *	Our department heads have been asked to share information with respect to remote work business continuity and over the coming days, we will begin to implement localized stress testing of our continuity. 
- *	We are instituting a standing COVID-19 Lunch Q&A Session and for obvious reasons this will be a virtual meeting. These meetings will begin on Monday, March 9, 2020.
+  *	Attached below, please find the FAQ that will be a living document, designed to help clarify and answer your questions as the situation continues to unfold.
+  *	Our department heads have been asked to share information with respect to remote work business continuity and over the coming days, we will begin to implement localized stress testing of our continuity. 
+  *	We are instituting a standing COVID-19 Lunch Q&A Session and for obvious reasons this will be a virtual meeting. These meetings will begin on Monday, March 9, 2020.
 
 ## Level 4+ (ZERO Air Travel)
 *	While we are not at this point today, we expect there is a high probability we will be terminating all air travel (including domestic).
@@ -101,10 +101,10 @@ Of course, we will monitor this situation and will amend and adjust this policy 
 
 ## Level 5 (School Closures)
 *	In the event of a location-specific government or school-specific decision to close schools, we recognize that some parents will need to work remotely to accommodate. We will have our remote working protocols implemented. Please contact your managers to let them know. 
- *	Given that these protocols were already triggered in China and Italy, as well as beginning in some localized areas of the US as of March 4, 2020; we need to be prepared. 
+  *	Given that these protocols were already triggered in China and Italy, as well as beginning in some localized areas of the US as of March 4, 2020; we need to be prepared. 
 *	We recommend making conditional childcare arrangements in the interim:
- *	Kids & Company resources for Canadian employees
- *	EAP in both US and Canada as a resource for sourcing childcare
+  *	Kids & Company resources for Canadian employees
+  *	EAP in both US and Canada as a resource for sourcing childcare
 *	We are currently working on plans for how to minimize the impact on our ability to collaborate/deliver on client expectations.
 
 ## Level 6 (Public Transportation Closures)
