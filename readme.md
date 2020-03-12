@@ -1,7 +1,6 @@
 
 # COVID-19: Safety Guidelines
 ## COVID-19 Safety Protocols & Continuity Planning
-Last Klick Update: 9:23pm on March 8th 2020
 
 # A Note on Using This Material
 This document is posted as of the timestamp on this file and, due to the novel and fluid nature of the COVID-19 outbreak, it reflects our best knowledge at the time of posting. This guide is for informational purposes only and is not intended to be a substitute for professional medical advice, diagnosis, or treatment and is not meant to replace any official guidance provided by the World Health Organization (WHO), the Centers for Disease Control and Prevention (CDC), Health Canada, or any other official regulatory body. For any questions and for the latest updates on the status of the COVID-19 outbreak, please seek the advice of your official and local health body.
